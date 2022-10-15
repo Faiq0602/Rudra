@@ -1,0 +1,26 @@
+.head {
+    height: 75px;
+    width: auto;
+    background-color: black;
+}
+.navbar-brand {
+    margin-left: 525px;
+}
+.pizza {
+   margin-left: 410px;
+}
+.middle {
+    background-color: #F5EFE6;
+}
+.bottom {
+    background-color: #F5EFE6;
+
+}
+.btn {
+    display: inline;
+    margin-left: 700px;
+    margin-bottom: 50px;
+}
+.buttons {
+background-color: #F5EFE6;
+}
