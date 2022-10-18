@@ -1,1 +1,3 @@
 Hello , this is the website which i ended up making for the recruitment test for rudra. Unfortunately i couldnt manage time to add javascript into it and make it working. And because of that it is just like a blueprint of how the website could look. I didnt started early enough and spent most of my time in looking at various sites for inspiration , now i feel like i could have done pretty much more if i started earlier.
+
+Edit : I have added the feature for adding/removing toppings.It uses javascript to targets the desired id and changes the source of image on the action of the click of button.
